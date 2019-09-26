@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "sample@gmail.com",
+      "age": 26,
+      "position": "Manager"
+    },
+    {
+      "id": "2",
+      "name": "Mark Doe",
+      "email": "sample2@gmail.com",
+      "age": 34,
+      "position": "Accountant"
+    },
+    {
+      "name": "Dare Toyin",
+      "email": "dare@gmail.com",
+      "age": 43,
+      "position": "IT Analysis",
+      "id": "r6nBQ9W"
+    }
+  ]
+}
