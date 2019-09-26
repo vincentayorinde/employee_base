@@ -2,3 +2,4 @@
 ## Made with
 - GraphQL
 - NodeJS
+- JSON Server
